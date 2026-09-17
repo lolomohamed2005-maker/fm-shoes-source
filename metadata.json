@@ -1,0 +1,8 @@
+{
+  "name": "Remix FM Shoes \u0026 Clogs | متجر الأحذية والكلوجز",
+  "description": "متجر FM Shoes \u0026 Clogs الإلكتروني المتكامل للأحذية والقباقيب والسليبرز المريحة، مجهز بنظام إدارة كامل وقاعدة بيانات PostgreSQL وخدمة عملاء ودفع عند الاستلام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
